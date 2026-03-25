@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "New Error!!",
+  "base_artist": "WARS iN CLOSET",
+  "createdAt": "2026-03-25T23:48:15.176620Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "A New Error (Headhunter Remix)",
+      "artist": "Moderat",
+      "has_synced": false,
+      "path": "select/01_A_New_Error_(Headhunter_Remix)_Moderat.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "A New Error",
+      "artist": "Dope Smoker",
+      "has_synced": false,
+      "path": "select/02_A_New_Error_Dope_Smoker.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "New Error",
+      "artist": "Dope Smoker",
+      "has_synced": false,
+      "path": "select/03_New_Error_Dope_Smoker.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "A New Error (Headhunter remix)",
+      "artist": "Modeselektor",
+      "has_synced": false,
+      "path": "select/04_A_New_Error_(Headhunter_remix)_Modeselektor.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "New Error!!",
+      "artist": "WARS iN CLOSET",
+      "has_synced": false,
+      "path": "select/pl_01_New_Error!!_WARS_iN_CLOSET.txt"
+    }
+  ]
+}
